@@ -1,3 +1,5 @@
+[< к содержанию](README.md)
+
 MIT License
 
 Copyright (c) october of 2024 Pavel Kolobov ( Kolombossman )

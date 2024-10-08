@@ -1,3 +1,5 @@
+[< к содержанию](README.md)
+
 ## git init
 git init [directory]
 
