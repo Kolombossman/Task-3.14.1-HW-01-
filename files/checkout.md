@@ -1,4 +1,4 @@
-[< к содержанию](README.md)
+[< к содержанию](/README.md)
 
 ## git checkout
 
@@ -23,6 +23,6 @@ _Чтобы отменить изменения в файлах до опред�
 git checkout -- <file>
 ```
 
-![git-config](assets/git-checkout.png)
+![git-checkout](/assets/git-checkout.png)
 
 [_(Источник)_](https://snowsystem.net/git/git-command/git-checkout/)

@@ -1,4 +1,4 @@
-[< к содержанию](README.md)
+[< к содержанию](/README.md)
 
 ## git config
 
@@ -25,6 +25,6 @@ _Чтобы установить адрес электронной почты, �
 git config --global user.email "Ваш e-mail"
 ```
 
-![git-config](assets/git-config.png)
+![git-config](/assets/git-config.png)
 
 [_(Источник)_](https://snowsystem.net/git/git-command/git-config/)

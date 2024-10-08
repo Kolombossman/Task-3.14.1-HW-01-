@@ -1,4 +1,4 @@
-[< к содержанию](README.md)
+[< к содержанию](/README.md)
 
 ## git pull
 
@@ -17,6 +17,6 @@ _Чтобы извлечь изменения из репозитория и о�
 git pull origin main
 ```
 
-![git-config](assets/git-pull.png)
+![git-config](/assets/git-pull.png)
 
 [_(Источник)_](https://snowsystem.net/git/git-command/git-pull/)

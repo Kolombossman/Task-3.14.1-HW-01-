@@ -37,51 +37,51 @@ Git - это распределённая система контроля вер
 <tr><td width=33% valign=top>
 
 1.   Настройка Git
--   [git config](./config.md)
+-   [git config](/files/config.md)
 
 2.   Базовые операции с репозиторием
--   [git init](./init.md)
--   [git add](./add.md)
--   [git commit](./commit.md)
--   [git clone](./clone.md)
+-   [git init](/files/init.md)
+-   [git add](/files/add.md)
+-   [git commit](/files/commit.md)
+-   [git clone](/files/clone.md)
 
 3.   Проверка состояния файлов в рабочем каталоге
--   [git status](./status.md)
+-   [git status](/files/status.md)
 
 4.   Удаление ненужных файлов из репозитория 
--   [git rm](./rm.md)
+-   [git rm](/files/rm.md)
 
 </td><td width=33% valign=top>
 
 5.   Игнорирование ненужных файлов 
--   [.gitignore](./ignore.md)
+-   [.gitignore](/files/ignore.md)
     
 6.   Просмотр списка репозиториев
--   [git remote](./remote.md)    
+-   [git remote](/files/remote.md)    
 
 7.   Отправка изменений в репозиторий
--   [git push](./push.md)  
+-   [git push](/files/push.md)  
 
 8.   Извлечение изменений из репозитория
--   [git pull](./pull.md)
+-   [git pull](/files/pull.md)
 
 </td><td width=33% valign=top>
 
 
 9.   Создание новой ветки
--   [git branch](./branch.md)
+-   [git branch](/files/branch.md)
 
 10.  Переключение между ветками, отмена изменений
--   [git checkout](./checkout.md)
+-   [git checkout](/files/checkout.md)
 
 11.  Отмена изменений
--   [git revert](./revert.md)
+-   [git revert](/files/revert.md)
 
 12.  Получение списка сделанных изменений
--   [git log](./log.md)
+-   [git log](/files/log.md)
 
 12.  Объединение изменений из одной ветки в другую
--   [git merge](./merge.md)
+-   [git merge](/files/merge.md)
 
 </td></tr>
 </table>

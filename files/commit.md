@@ -1,4 +1,4 @@
-[< к содержанию](README.md)
+[< к содержанию](/README.md)
 
 ## git commit
 
@@ -19,6 +19,6 @@ git commit -m "Add some text"
 ```
 
 
-![git-commit](assets/git-commit.png)
+![git-commit](/assets/git-commit.png)
 
 [_(Источник)_](https://snowsystem.net/git/git-command/git-config/)

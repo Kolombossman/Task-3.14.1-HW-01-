@@ -1,4 +1,4 @@
-[< к содержанию](README.md)
+[< к содержанию](/README.md)
 
 ## git init
 git init [directory]
@@ -14,6 +14,6 @@ _Чтобы инициализировать репозиторий, испол�
 ```bash=
 git init
 ```
-![git-init](assets/git-init.png)
+![git-init](/assets/git-init.png)
 
 [_(Источник)_](https://snowsystem.net/git/git-command/git-init/)

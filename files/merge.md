@@ -1,4 +1,4 @@
-[< к содержанию](README.md)
+[< к содержанию](/README.md)
 
 ## git merge 
 
@@ -18,6 +18,6 @@ git merge branch.name
 ```
 
 
-![git-config](assets/git-merge.png)
+![git-config](/assets/git-merge.png)
 
 [_(Источник)_](https://snowsystem.net/git/git-command/git-merge/)

@@ -1,4 +1,4 @@
-[< к содержанию](README.md)
+[< к содержанию](/README.md)
 
 ## git add
 git add [pathspec...]
@@ -23,6 +23,6 @@ _Чтобы добавить отдельный файл  каталога в и
 ```bash=
 git add [имя файла]
 ```
-![git-add](assets/git-add.png)
+![git-add](/assets/git-add.png)
 
 [_(Источник)_](https://snowsystem.net/git/git-command/git-add/)

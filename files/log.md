@@ -1,4 +1,4 @@
-[< к содержанию](README.md)
+[< к содержанию](/README.md)
 
 ## git log 
 
@@ -18,6 +18,6 @@ git log
 ```
 
 
-![git-config](assets/git-log.png)
+![git-config](/assets/git-log.png)
 
 [_(Источник)_](https://snowsystem.net/git/git-command/git-log/)

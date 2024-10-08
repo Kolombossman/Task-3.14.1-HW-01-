@@ -1,4 +1,4 @@
-[< к содержанию](README.md)
+[< к содержанию](/README.md)
 
 ## git remote
 
@@ -25,6 +25,6 @@ _Чтобы добавить репозиторий на выбранный хо
 git remote add
 ```
 
-![git-config](assets/git-remote.png)
+![git-config](/assets/git-remote.png)
 
 [_(Источник)_](https://snowsystem.net/git/git-command/git-remote/)

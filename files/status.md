@@ -1,4 +1,4 @@
-[< к содержанию](README.md)
+[< к содержанию](/README.md)
 
 ## git status
 
@@ -19,6 +19,6 @@ git status
 ```
 
 
-![git-status](assets/git-status.png)
+![git-status](/assets/git-status.png)
 
 [_(Источник)_](https://snowsystem.net/git/git-command/git-status/)

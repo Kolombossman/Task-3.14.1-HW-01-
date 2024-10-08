@@ -1,4 +1,4 @@
-[< к содержанию](README.md)
+[< к содержанию](/README.md)
 
 ## git push
 
@@ -17,6 +17,6 @@ _Чтобы отправить изменения в репозиторий, и�
 git push origin main
 ```
 
-![git-config](assets/git-push.png)
+![git-config](/assets/git-push.png)
 
 [_(Источник)_](https://snowsystem.net/git/git-command/git-push/)

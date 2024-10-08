@@ -1,4 +1,4 @@
-[< к содержанию](README.md)
+[< к содержанию](/README.md)
 
 ## git rm
 
@@ -19,6 +19,6 @@ git rm filename.txt
 ```
 
 
-![git-rm](assets/git-rm.png)
+![git-rm](/assets/git-rm.png)
 
 [_(Источник)_](https://snowsystem.net/git/git-command/git-rm/)

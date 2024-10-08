@@ -1,4 +1,4 @@
-[< к содержанию](README.md)
+[< к содержанию](/README.md)
 
 ## git revert
 
@@ -18,6 +18,6 @@ git revert HEAD
 ```
 
 
-![git-config](assets/git-revert.png)
+![git-config](/assets/git-revert.png)
 
 [_(Источник)_](https://snowsystem.net/git/git-command/git-revert/)

@@ -1,4 +1,4 @@
-[< к содержанию](README.md)
+[< к содержанию](/README.md)
 
 ## git clone
 
@@ -15,6 +15,6 @@ _Чтобы создать клон репозитория, используйт
 ```bash=
 git clone 
 ```
-![git-clone](assets/git-clone.png)
+![git-clone](/assets/git-clone.png)
 
 [_(Источник)_](https://snowsystem.net/git/git-command/git-clone/)

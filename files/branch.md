@@ -1,4 +1,4 @@
-[< к содержанию](README.md)
+[< к содержанию](/README.md)
 
 ## git branch
 
@@ -17,6 +17,6 @@ _Чтобы создать новую ветку, используйте ком�
 git branch new_branch
 ```
 
-![git-config](assets/git-branch.png)
+![git-branch](/assets/git-branch.png)
 
 [_(Источник)_](https://snowsystem.net/git/git-command/git-branch/)
